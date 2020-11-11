@@ -15,7 +15,7 @@ A simple gym member manager to keep a track of all payments and members
 
 ## Working
 
-![Working](results/Gym-Member-Manager.gif)
+![Working](Gym-Member-Manager.gif)
 
 ## How to use
 
